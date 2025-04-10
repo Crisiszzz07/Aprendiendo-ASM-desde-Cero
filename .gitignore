@@ -1,5 +1,7 @@
 # Ignore object files
 *.o
 
-# Ignore all compiled binaries (files without extensions)
-*
+# Ignore compiled binaries
+helloworld2
+a.out
+*.exe
