@@ -28,6 +28,7 @@ Este repositorio es mi bitácora de aprendizaje de lenguaje ensamblador (NASM) e
 - Ubuntu, VSCode, NASM
 - Python para automatización
 - GDB, objdump, `strace`
+- [Syscall Linux table](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 
 ## Cómo ejecutar un ejemplo
 
