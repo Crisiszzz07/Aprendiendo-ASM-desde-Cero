@@ -41,3 +41,6 @@ syscall
 
     - `10`: salto de línea (\n)
     - `0` es el byte nulo (\0) para terminar la cadena.
+
+### Contenido que visité:
+- [Assembly programming](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.html)

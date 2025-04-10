@@ -5,3 +5,10 @@
 helloworld2
 a.out
 *.exe
+
+# Rosetta-stone
+# Ignore all files in the rosetta-stone directory
+rosetta-stone/
+
+#docker
+Dockerfile
