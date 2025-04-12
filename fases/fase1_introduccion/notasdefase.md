@@ -43,4 +43,4 @@ syscall
     - `0` es el byte nulo (\0) para terminar la cadena.
 
 ### Contenido que visité:
-- [Assembly programming](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.html)
+- [Assembly programming](https://www.tutorialspoint.com/assembly_programming/index.htm)
